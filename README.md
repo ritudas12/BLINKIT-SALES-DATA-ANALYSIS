@@ -2,6 +2,7 @@
 **Project Overview**
 
 This project is based on analyzing grocery sales data from BlinkIT using Microsoft Excel. The main goal of this project is to understand sales performance, customer preferences, and outlet insights.
+![image_alt](https://github.com/ritudas12/BLINKIT-SALES-DATA-ANALYSIS/blob/d11154144dce09d186b69d52f5b9ff6b9bcb2d9d/Screenshot%20(7).png)
 
 **What I Did in This Project**
 - Cleaned and organized raw data in Excel
